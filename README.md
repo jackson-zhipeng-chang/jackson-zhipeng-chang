@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
+<h1 align="center">Hi there 👋</h1>
 
 ![Hi, I'm Jackson 👋 I'm a 🚀 Canadian developer 🚀 I ❤️ Solving Problems ❤️](./Docs/profile-readme.gif)
 
