@@ -1,3 +1,4 @@
+<h2 align="center">Hi there 👋</h2>
 ![Hi, I'm Jackson 👋 I'm a 🚀 Canadian developer 🚀 I ❤️ Solving Problems ❤️](./Docs/profile-readme.gif)
 
 <h2 align="center">:octocat: My Github Portfolio</h2>
