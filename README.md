@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">👋 Hello! I'm Jackson.</h1>
 
 ![Hi, I'm Jackson 👋 I'm a 🚀 Canadian developer 🚀 I ❤️ Solving Problems ❤️](./Docs/profile-readme.gif)
 
 <h2 align="center">:octocat: My Github Portfolio</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jackson-zhipeng-chang" alt="Github Portfolio" />
+<img src="https://github-readme-stats.vercel.app/api?username=jackson-zhipeng-chang&hide=contribs,stars" alt="Github Portfolio" />
 </p>
 
 <h2 align="center">📊 This week I spent my time on</h2>
