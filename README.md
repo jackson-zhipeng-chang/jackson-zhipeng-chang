@@ -1,5 +1,4 @@
-<div align="center">
-# 👋 Hello! I'm Jackson.
+<h1 align="center">👋 Hello! I'm Jackson.</h1>
 
 ![Hi, I'm Jackson 👋 I'm a 🚀 Canadian developer 🚀 I ❤️ Solving Problems ❤️](./Docs/profile-readme.gif)
 
@@ -12,7 +11,6 @@
 <p align="center">
 <img style="pointer-events:none" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jzchang&hide_title=true&hide_border=true&langs_count=5" alt="Wwakatime stats" />
 </p>
-</div>
 
 <!--
 **jackson-zhipeng-chang/jackson-zhipeng-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
