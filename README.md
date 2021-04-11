@@ -7,6 +7,17 @@
 <img style="pointer-events:none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-zhipeng-chang&layout=compact" alt="Github Portfolio" />
 </p>
 
+<h2 align="center">📊 Currently working on</h2>
+
+<!--START_SECTION:waka-->
+```text
+Typescript       █████████████░░░░░░░░░░░░   50.00 % 
+Ruby             █████████████░░░░░░░░░░░░   50.00 % 
+```
+<!--END_SECTION:waka-->
+
+-------
+
 <h2 align="center">:octocat: My Github Portfolio</h2>
 <p align="center">
 <img style="pointer-events:none" src="https://github-readme-stats.vercel.app/api?username=jackson-zhipeng-chang&hide=contribs,stars" alt="Github Portfolio" />
